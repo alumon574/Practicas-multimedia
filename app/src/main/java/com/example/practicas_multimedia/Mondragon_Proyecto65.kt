@@ -22,6 +22,7 @@ fun main() {
             }
             else -> {
                 println("Escaleno")
+
                 escaleno++
             }
         }
