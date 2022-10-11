@@ -1,7 +1,6 @@
 package com.example.practicas_multimedia
 
 fun main() {
-
     var x = 0
     var suma1 = 0
     var suma2 = 0

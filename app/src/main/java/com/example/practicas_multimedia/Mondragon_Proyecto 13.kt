@@ -10,5 +10,4 @@ fun main() {
     val media = (nota1+nota2+nota3)/3
     if (media>=7)
         println("Promocionado")
-
 }

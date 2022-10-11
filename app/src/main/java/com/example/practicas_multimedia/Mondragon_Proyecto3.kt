@@ -5,7 +5,4 @@ fun main() {
     val superficie = lado * lado
     val perimetro = lado * 4
     println("El lado es $lado, la superficie es $superficie y el perimetro es $perimetro")
-
-
-
 }

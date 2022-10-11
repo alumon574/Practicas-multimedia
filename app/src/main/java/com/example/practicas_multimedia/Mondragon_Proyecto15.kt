@@ -12,5 +12,4 @@ fun main() {
 
     var mayor = if (num1>num2) num1 else num2
     println(mayor)
-
 }

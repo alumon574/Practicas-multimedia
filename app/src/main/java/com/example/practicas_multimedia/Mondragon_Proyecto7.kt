@@ -7,5 +7,4 @@ fun main() {
     val cantidad = readLine()!!.toInt()
     val total:Float=precio*cantidad
     println("El total a pagar es $total")
-
 }
