@@ -33,6 +33,7 @@ fun repite108(vector: IntArray, buscar: Int): Boolean {
         return true
     else
         return false
+
 }
 
 fun main() {
