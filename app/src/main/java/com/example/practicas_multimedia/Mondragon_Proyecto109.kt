@@ -1,6 +1,6 @@
 package com.example.practicas_multimedia
 
-class Persona {
+class Persona109 {
     var nombre: String = ""
     var edad: Int = 0
 
@@ -20,11 +20,11 @@ class Persona {
 }
 
 fun main() {
-    val p1 = Persona()
+    val p1 = Persona109()
     p1.crear109("Pepe",15)
     p1.imprimir109()
     p1.esMayor109()
-    val p2 = Persona()
+    val p2 = Persona109()
     p2.crear109("Juan",15)
     p2.imprimir109()
     p2.esMayor109()

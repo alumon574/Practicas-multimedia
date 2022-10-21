@@ -1,6 +1,6 @@
 package com.example.practicas_multimedia
 
-class Triangulo{
+class Triangulo110{
     var lado1=0
     var lado2=0
     var lado3=0
@@ -32,7 +32,7 @@ class Triangulo{
 }
 
 fun main() {
-    val t1 = Triangulo()
+    val t1 = Triangulo110()
     t1.crear110()
     t1.ladoMayor110()
     t1.esEquilatero()

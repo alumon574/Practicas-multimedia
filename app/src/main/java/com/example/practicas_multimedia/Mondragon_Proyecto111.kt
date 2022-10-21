@@ -1,6 +1,6 @@
 package com.example.practicas_multimedia
 
-class Alumno{
+class Alumno111{
     var nombre = ""
     var nota = 0
 
@@ -24,12 +24,12 @@ class Alumno{
 }
 
 fun main() {
-    val alu1 = Alumno()
+    val alu1 = Alumno111()
     alu1.crear111()
     alu1.imprimir111()
     alu1.mostrarEstado()
 
-    val alu2 = Alumno()
+    val alu2 = Alumno111()
     alu2.crear111()
     alu2.imprimir111()
     alu2.mostrarEstado()
